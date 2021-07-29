@@ -1,7 +1,7 @@
 # collection
 	
-[XMP解释文档](https://github.com/adobe/xmp-docs)
+[取证辅助工具](/evidence/README.md)
 
-[pyinstaller生成exe反编译](https://github.com/extremecoders-re/pyinstxtractor)
+[python编写小工具](/Tools/README.md)
 
-[社工字典建立工具](https://github.com/LandGrey/pydictor)
+[GutHub项目](/GitHub/README.md)
